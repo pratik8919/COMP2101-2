@@ -5,7 +5,7 @@
 #
 # Sample output:
 #   Hostname      : zubu
-#   LAN Address   : 192.168.2.2
+#   LAN Address   : 192.168.2.1
 #   LAN Name      : net2-linux
 #   External IP   : 1.2.3.4
 #   External Name : some.name.from.our.isp
